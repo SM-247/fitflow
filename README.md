@@ -1,3 +1,7 @@
+## Live Demo
+
+https://fitflow-sm.vercel.app
+
 # FitFlow
 
 FitFlow is a constraint-based adaptive workout generator that dynamically builds daily training sessions based on user energy, soreness, time availability, and training history.
