@@ -1,6 +1,8 @@
-<a
-  href="/dashboard"
-  className="text-sm text-gray-500 hover:text-black"
->
-  View Dashboard →
-</a>
+export default function Dashboard() {
+  return (
+    <div style={{ padding: "40px", fontFamily: "sans-serif" }}>
+      <h1>Workout Dashboard</h1>
+      <p>Welcome!</p>
+    </div>
+  );
+}
